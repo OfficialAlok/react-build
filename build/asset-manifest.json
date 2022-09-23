@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.58e5e713.css",
-    "main.js": "/react-portfolio/static/js/main.a826a29c.js",
-    "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/react.png": "/react-portfolio/static/media/react.73dbb5bcec516da82694.png",
-    "static/media/github.png": "/react-portfolio/static/media/github.3ec61b93854178c47369.png",
-    "static/media/bootstrap.png": "/react-portfolio/static/media/bootstrap.e53d77fae52c3827fb74.png",
-    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.9c2e5bcf4f97d73e438e.png",
-    "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/logo.png": "/react-portfolio/static/media/logo.543679aaf92f11de4e05.png",
-    "static/media/aws.png": "/react-portfolio/static/media/aws.f20356ada6678f5751ae.png",
-    "static/media/css.png": "/react-portfolio/static/media/css.463e319bad8e0edf1ef7.png",
-    "static/media/html.png": "/react-portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.58e5e713.css.map": "/react-portfolio/static/css/main.58e5e713.css.map",
-    "main.a826a29c.js.map": "/react-portfolio/static/js/main.a826a29c.js.map"
+    "main.css": "/static/css/main.58e5e713.css",
+    "main.js": "/static/js/main.f615fc7b.js",
+    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/react.png": "/static/media/react.73dbb5bcec516da82694.png",
+    "static/media/github.png": "/static/media/github.3ec61b93854178c47369.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.e53d77fae52c3827fb74.png",
+    "static/media/tailwind.png": "/static/media/tailwind.9c2e5bcf4f97d73e438e.png",
+    "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/logo.png": "/static/media/logo.543679aaf92f11de4e05.png",
+    "static/media/aws.png": "/static/media/aws.f20356ada6678f5751ae.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/index.html",
+    "main.58e5e713.css.map": "/static/css/main.58e5e713.css.map",
+    "main.f615fc7b.js.map": "/static/js/main.f615fc7b.js.map"
   },
   "entrypoints": [
     "static/css/main.58e5e713.css",
-    "static/js/main.a826a29c.js"
+    "static/js/main.f615fc7b.js"
   ]
 }
